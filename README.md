@@ -3,4 +3,5 @@ This project is a straightforward Python-based QR code generator that creates hi
 
 Ideal for learning QR code generation or integrating into larger projects like contactless menus, digital business cards, or quick link sharing.
 
-image.png
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/77a45ddb-6040-46a0-8dee-a766235b0507" />
+
